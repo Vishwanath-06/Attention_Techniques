@@ -143,6 +143,3 @@ When reporting results, include:
 - [Hugging Face Transformers documentation](https://huggingface.co/docs/transformers/index)
 - [PyTorch scaled dot product attention documentation](https://pytorch.org/docs/stable/generated/torch.nn.functional.scaled_dot_product_attention.html)
 
-## License
-
-No repository license is specified yet. Add a `LICENSE` file before granting others explicit permission to reuse the notebook or diagrams. Third-party model and dataset assets remain subject to their own licenses and terms.
