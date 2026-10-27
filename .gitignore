@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables and credentials
+.env
+.env.*
+!.env.example
+
+# Generated datasets and large archives
+data/
+datasets/
+*.zip
+
+# Generated visualization assets (uncomment if you don't want to track them)
+# assets/
